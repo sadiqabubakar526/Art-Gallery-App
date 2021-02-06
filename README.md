@@ -19,7 +19,7 @@ App hold the following stuff:
 ## Author
 
 #### SURAJ ABUBAKAR 🧑
-[![LinkedIn Link](https://img.shields.io/badge/Connect-Shahmeer-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
+[![LinkedIn Link](https://img.shields.io/badge/Connect-Suraj-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
 )](https://www.linkedin.com/in/Suraj-Abubakar)
 
 👉 You can also follow my GitHub Profile to stay updated about my latest projects:
